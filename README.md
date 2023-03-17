@@ -8,4 +8,4 @@
 * Buka terminal atu CMD, arahkan ke directori web yang sudah didownload
 * Install package dengan mengetik `npm run install` atau jika sudah install yarn bisa jalankan `yarn` pada terminal atau CMD
 * Jalankan websitenya dengan cara mengetik `npm run dev` atau `yarn dev`
-* Silahkan menggunakan website. :)
+* Selamat menggunakan website SPK-SAW. :)
